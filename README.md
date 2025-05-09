@@ -32,11 +32,15 @@
 
 ## Input:
 
+![image](https://github.com/user-attachments/assets/0071b8bd-b762-434f-82a7-2d0177a21d33)
+
+
 ### Output:
+![image](https://github.com/user-attachments/assets/1f44b24a-1598-4eea-bdcd-2a5fb616a694)
 
 
-### Name:
-### Register Number:
+### Name: latchaya priyan S
+### Register Number:212224230139
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
